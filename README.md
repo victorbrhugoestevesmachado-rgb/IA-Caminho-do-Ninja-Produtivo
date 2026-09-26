@@ -38,7 +38,7 @@ Neste projeto foram trabalhados:
 
 ## 📂 Conteúdo do repositório
 
-- `IA_Caminho_do_Ninja_Produtivo.pdf` → versão final do e-book
+- 'IA_Caminho_do_Ninja_Produtivo.pdf'→ versão final do e-book
 
 ## 🚀 Aprendizados
 
