@@ -38,7 +38,7 @@ Neste projeto foram trabalhados:
 
 ## 📂 Conteúdo do repositório
 
-O repositório contém o material desenvolvido para o projeto **IA: Caminho do Ninja Produtivo**, incluindo o conteúdo principal do e-book.
+- `IA_Caminho_do_Ninja_Produtivo.pdf` → versão final do e-book
 
 ## 🚀 Aprendizados
 
@@ -52,11 +52,8 @@ Com este projeto, pratiquei principalmente:
 
 ## 🔮 Próximas melhorias
 
-- adicionar a versão final do e-book em PDF;
-- incluir imagens e uma prévia visual do projeto;
-- melhorar a organização dos arquivos;
-- documentar melhor o processo de criação;
-- criar uma versão online do conteúdo.
+- Incluir imagens e uma prévia visual do projeto
+- Criar uma versão online do conteúdo
 
 ## 👨‍💻 Autor
 
